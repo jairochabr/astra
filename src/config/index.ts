@@ -28,7 +28,7 @@ export const SITE_CONFIG: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    creator: "@shreyassihasane",
+    creator: "@jairochabr",
     title: "Astra - AI Powered Website Builder",
     description:
       "Astra is an AI powered website builder that helps you create a website in minutes. No coding skills required. Get started for free!",
@@ -38,5 +38,5 @@ export const SITE_CONFIG: Metadata = {
       },
     ],
   },
-  metadataBase: new URL("https://astra-app.vercel.app"),
+  metadataBase: new URL("https://astra-next.vercel.app"),
 };
